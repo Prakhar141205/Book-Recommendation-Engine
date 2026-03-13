@@ -10,3 +10,8 @@
 /dataSources.local.xml
 
 inspectionProfiles
+
+*.csv
+*.pkl
+*.ipynb_checkpoints
+__pycache__/
